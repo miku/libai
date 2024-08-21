@@ -1,2 +1,5 @@
 # libai
-Assorted notes on libraries and AI
+
+> Assorted notes on libraries and AI
+
+
