@@ -50,5 +50,5 @@ These are applications mentioned in various publications and meta lists.
 * [Scilynk](https://www.scilynk.com/)
 * [Scite](https://scite.ai/)
 * [Coordination Network](https://www.coordination.network/)
-
-
+* [Google Gemini](https://gemini.google.com/)
+* [Huggingface Chat](https://huggingface.co/chat/)
