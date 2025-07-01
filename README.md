@@ -44,7 +44,7 @@ These are applications mentioned in various publications and meta lists.
 * [Humata](https://www.humata.ai/)
 * [DocAnalyzer](https://docanalyzer.ai/)
 * [ExplainPaper](https://www.explainpaper.com/)
-
+* [Inciteful](https://inciteful.xyz/)
 
 
 
