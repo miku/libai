@@ -45,6 +45,10 @@ These are applications mentioned in various publications and meta lists.
 * [DocAnalyzer](https://docanalyzer.ai/)
 * [ExplainPaper](https://www.explainpaper.com/)
 * [Inciteful](https://inciteful.xyz/)
-
+* [Scinapse](https://www.scinapse.io/)
+* [ScienceOS](https://www.scienceos.ai/)
+* [Scilynk](https://www.scilynk.com/)
+* [Scite](https://scite.ai/)
+* [Coordination Network](https://www.coordination.network/)
 
 
